@@ -89,4 +89,7 @@ button:hover {
     .textarea-control {
         grid-column: 1 / span 1;
     }
+    .apply-box {
+        margin-top: 0;
+    }
 }
